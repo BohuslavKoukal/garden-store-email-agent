@@ -1,0 +1,10 @@
+Subject: Order #12345 - missing item
+
+Hi there,
+
+My name is James. I placed an order last week (order number 12345) but
+one of the items — a pair of gardening gloves — was missing from the package.
+Could you please send the missing item or issue a refund?
+
+Kind regards,
+James
